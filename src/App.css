@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+#buttons{
+  width:100%;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#clear{
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+#equals{
+  grid-column-start:4;
+  grid-column-end:5;
+  grid-row-start:4;
+  grid-row-end: 6;
+}
+
+#zero{
+  grid-column-start:1;
+  grid-column-end:3
+}
