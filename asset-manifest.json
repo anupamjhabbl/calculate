@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/freecodecamp_calculator/static/css/main.e575c8f7.css",
-    "main.js": "/freecodecamp_calculator/static/js/main.16cdb6cc.js",
-    "static/js/787.a174f9e5.chunk.js": "/freecodecamp_calculator/static/js/787.a174f9e5.chunk.js",
-    "index.html": "/freecodecamp_calculator/index.html",
-    "main.e575c8f7.css.map": "/freecodecamp_calculator/static/css/main.e575c8f7.css.map",
-    "main.16cdb6cc.js.map": "/freecodecamp_calculator/static/js/main.16cdb6cc.js.map",
-    "787.a174f9e5.chunk.js.map": "/freecodecamp_calculator/static/js/787.a174f9e5.chunk.js.map"
+    "main.css": "/freecodecamp-calculator/static/css/main.e575c8f7.css",
+    "main.js": "/freecodecamp-calculator/static/js/main.662d620e.js",
+    "static/js/787.a174f9e5.chunk.js": "/freecodecamp-calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/freecodecamp-calculator/index.html",
+    "main.e575c8f7.css.map": "/freecodecamp-calculator/static/css/main.e575c8f7.css.map",
+    "main.662d620e.js.map": "/freecodecamp-calculator/static/js/main.662d620e.js.map",
+    "787.a174f9e5.chunk.js.map": "/freecodecamp-calculator/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e575c8f7.css",
-    "static/js/main.16cdb6cc.js"
+    "static/js/main.662d620e.js"
   ]
 }
